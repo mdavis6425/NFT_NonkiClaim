@@ -1,1 +1,7 @@
 https://rinkeby.etherscan.io/address/0xD94f1ef291F39737F36D532045A3564eDD290eb7#code
+
+- DigitalOcean
+Username: team@nonkishiba.com
+
+- Reserved IP for api.nonkishiba.com
+45.55.97.128
