@@ -1,0 +1,4 @@
+NonkiClaim: https://etherscan.io/address/0x2fc04781b8afe45f122f86ff0f862d65995ef004
+NonkiToken: https://etherscan.io/address/0xb0876828319A9D9961703564e62abA5e030d784d
+
+
